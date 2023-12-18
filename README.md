@@ -25,11 +25,18 @@ Complete the following steps:
     Use otu_ids for the marker colors.
     Use otu_labels for the text values.
 
-5. Display the sample metadata, i.e., an individual's demographic information.
-6. Display each key-value pair from the metadata JSON object somewhere on the page.
-7. Update all the plots when a new sample is selected. 
+     <img width="436" alt="image" src="https://github.com/Tesleprub23/belly-button-challenge/assets/143920584/6cb4a869-2818-4597-8931-e596a687d573">
+  
+
+6. Display the sample metadata, i.e., an individual's demographic information.
+7. Display each key-value pair from the metadata JSON object somewhere on the page.
+
+    <img width="70" alt="image" src="https://github.com/Tesleprub23/belly-button-challenge/assets/143920584/17910ce2-69db-45ac-b559-d9fbbf824ce2">
+
+
+8. Update all the plots when a new sample is selected. 
    Additionally, you are welcome to create any layout that you would like for your dashboard. 
-8. Deploy your app to a free static page hosting service, such as GitHub Pages. 
+9. Deploy your app to a free static page hosting service, such as GitHub Pages. 
    Submit the links to your deployment and your GitHub repo. 
    Ensure that your repository has regular commits and a thorough README.md file
 
