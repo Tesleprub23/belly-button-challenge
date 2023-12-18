@@ -40,6 +40,11 @@ Complete the following steps:
    Submit the links to your deployment and your GitHub repo. 
    Ensure that your repository has regular commits and a thorough README.md file
 
+Result:
+    <img width="472" alt="image" src="https://github.com/Tesleprub23/belly-button-challenge/assets/143920584/4e43954d-b8b4-423d-9b6f-8f714a34a578">
+
+
+
 
 References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
