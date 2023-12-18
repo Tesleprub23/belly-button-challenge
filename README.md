@@ -15,7 +15,8 @@ Complete the following steps:
     Use otu_ids as the labels for the bar chart.
     Use otu_labels as the hovertext for the chart.
 
-   References Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
+   <img width="170" alt="image" src="https://github.com/Tesleprub23/belly-button-challenge/assets/143920584/469cc088-f713-43e1-9f29-71bfc5cec61a">
+
     
 4. Create a bubble chart that displays each sample.
     Use otu_ids for the x values.
