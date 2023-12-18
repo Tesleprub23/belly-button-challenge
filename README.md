@@ -29,3 +29,7 @@ Complete the following steps:
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. 
    Submit the links to your deployment and your GitHub repo. 
    Ensure that your repository has regular commits and a thorough README.md file
+
+
+References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
