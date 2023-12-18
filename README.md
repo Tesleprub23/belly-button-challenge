@@ -40,14 +40,7 @@ Complete the following steps:
    Submit the links to your deployment and your GitHub repo. 
    Ensure that your repository has regular commits and a thorough README.md file
 
-Result:
-
-
-
-
-    <img width="472" alt="image" src="https://github.com/Tesleprub23/belly-button-challenge/assets/143920584/4e43954d-b8b4-423d-9b6f-8f714a34a578">
-
-
+<img width="472" alt="image" src="https://github.com/Tesleprub23/belly-button-challenge/assets/143920584/cb390da5-6ba3-45cf-8007-cd85ce429adb">
 
 
 References
